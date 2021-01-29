@@ -3,11 +3,11 @@
 import setuptools
 import unittest
 
-pkg_name = 'wat'
+pkg_name = 'whatever'
 
-setuptools.setup(name='web-annotation-tool',
+setuptools.setup(name='whatever',
     version='0.0.1',
-    description='Web Annotation Tool',
+    description='Whatever description',
     author='Luis Carlos Garcia Peraza Herrera',
     author_email='luiscarlos.gph@gmail.com',
     license='MIT',

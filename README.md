@@ -21,5 +21,8 @@ this parameter can be removed and others may be added.
 # Deployment
 ```http://localhost:1234```
 
+# Demo
+![alt text](https://github.com/luiscarlosgph/dash-template/blob/main/demo/demo.jpg?raw=true)
+
 # License
 See LICENSE file.
